@@ -6,7 +6,7 @@ h2{
  color:blue;
  font-family: "Comic Sans MS";
  font-size:30px;
- margin:300px;
+ margin:200px;
 }
 img{
   height:100px;
@@ -27,5 +27,5 @@ iframe{
   margin:300px;
 }
 ul{
-  margin:300px;
+  margin:100px;
 }
