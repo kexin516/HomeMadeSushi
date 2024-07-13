@@ -5,7 +5,8 @@ html {
 h2{
  color:blue;
  font-family: "Comic Sans MS";
- font-size: 30px;
+ font-size:30px;
+ margin:300px;
 }
 img{
   height:100px;
@@ -16,9 +17,15 @@ img{
 h1{
  color:yellow;
   font-family: "aquamarine";
-  font-size: 60px;
+  font-size:60px;
   background-color:#a3a3a3;
   text-align: center;
 }
 body{
   background-color: #ADD8E6;}
+iframe{
+  margin:300px;
+}
+ul{
+  margin:300px;
+}
