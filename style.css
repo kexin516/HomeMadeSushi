@@ -1,0 +1,24 @@
+html {
+  height:100%;
+  width:100%;
+}
+h2{
+ color:blue;
+ font-family: "Comic Sans MS";
+ font-size: 30px;
+}
+img{
+  height:100px;
+  width:100px;
+  padding:50px;
+  margin:1px;
+}
+h1{
+ color:yellow;
+  font-family: "aquamarine";
+  font-size: 60px;
+  background-color:#a3a3a3;
+  text-align: center;
+}
+body{
+  background-color: #ADD8E6;}
